@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WeChat export reader icon">
+  <rect width="512" height="512" rx="112" fill="#07C160"/>
+  <ellipse cx="221" cy="236" rx="132" ry="105" fill="#ffffff"/>
+  <ellipse cx="310" cy="296" rx="116" ry="91" fill="#e9fff2"/>
+  <path d="M150 317 104 357l17-62z" fill="#ffffff"/>
+  <path d="M371 358 414 394l-16-57z" fill="#e9fff2"/>
+  <circle cx="177" cy="222" r="14" fill="#07C160"/>
+  <circle cx="256" cy="222" r="14" fill="#07C160"/>
+  <circle cx="277" cy="286" r="12" fill="#07C160"/>
+  <circle cx="344" cy="286" r="12" fill="#07C160"/>
+</svg>
