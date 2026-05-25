@@ -1,0 +1,29 @@
+{
+  "name": "wechat-export-reader",
+  "version": "0.1.0",
+  "description": "Read user-exported WeChat files from a local folder and build compact Codex-friendly indexes.",
+  "author": {
+    "name": "htlh local workspace"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "WeChat Export Reader",
+    "shortDescription": "Index local WeChat exports for Codex.",
+    "longDescription": "A privacy-first local workflow for reading only user-exported WeChat chats, public-account articles, and attachments. It does not access encrypted WeChat databases or credentials.",
+    "developerName": "htlh local workspace",
+    "category": "Productivity",
+    "capabilities": [
+      "Local files",
+      "Read-only indexing",
+      "Chinese workflow"
+    ],
+    "brandColor": "#07C160",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "defaultPrompt": [
+      "Index my WeChat export folder.",
+      "Summarize recent WeChat exports.",
+      "Find tasks in my WeChat exports."
+    ]
+  }
+}
